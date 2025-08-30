@@ -23,7 +23,7 @@ const TaskContainer = () => {
     <Card className="w-[60rem]">
       <CardHeader>
         <CardTitle>All Task</CardTitle>
-        <CardDescription>Deploy your new project in one-click.</CardDescription>
+        <CardDescription>Click add task button for adding a new task.</CardDescription>
       </CardHeader>
       <CardContent>
         <form>
